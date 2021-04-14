@@ -19,7 +19,7 @@ function App() {
           ></path>
         </svg>
       </div>
-      <p className="mt-6 tracking-wide">Memebase</p>
+      <p className="mt-6 tracking-wide">memebase</p>
       <div className="mt-4 flex justify-center">
         <a
           className="bg-indigo-500 hover:bg-indigo-600 text-white py-2 px-4 rounded"

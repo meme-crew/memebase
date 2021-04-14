@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "run-p watch:css react-scripts:start",
-    "build": "run-s build:css react-scripts:build",
+    "build": "run-s build:css react-scripts:build && mv build docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:css": "cross-env TAILWIND_MODE=build NODE_ENV=production postcss src/styles/tailwind.css -o src/styles/index.css",

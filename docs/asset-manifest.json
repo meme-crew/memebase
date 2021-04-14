@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/memebase/static/css/main.bd9d05b0.chunk.css",
-    "main.js": "/memebase/static/js/main.d9d03048.chunk.js",
-    "main.js.map": "/memebase/static/js/main.d9d03048.chunk.js.map",
+    "main.css": "/memebase/static/css/main.3de1322f.chunk.css",
+    "main.js": "/memebase/static/js/main.ce7eead4.chunk.js",
+    "main.js.map": "/memebase/static/js/main.ce7eead4.chunk.js.map",
     "runtime-main.js": "/memebase/static/js/runtime-main.d2e37eb1.js",
     "runtime-main.js.map": "/memebase/static/js/runtime-main.d2e37eb1.js.map",
     "static/js/2.7183d4bb.chunk.js": "/memebase/static/js/2.7183d4bb.chunk.js",
     "static/js/2.7183d4bb.chunk.js.map": "/memebase/static/js/2.7183d4bb.chunk.js.map",
     "index.html": "/memebase/index.html",
-    "static/css/main.bd9d05b0.chunk.css.map": "/memebase/static/css/main.bd9d05b0.chunk.css.map",
+    "static/css/main.3de1322f.chunk.css.map": "/memebase/static/css/main.3de1322f.chunk.css.map",
     "static/js/2.7183d4bb.chunk.js.LICENSE.txt": "/memebase/static/js/2.7183d4bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2e37eb1.js",
     "static/js/2.7183d4bb.chunk.js",
-    "static/css/main.bd9d05b0.chunk.css",
-    "static/js/main.d9d03048.chunk.js"
+    "static/css/main.3de1322f.chunk.css",
+    "static/js/main.ce7eead4.chunk.js"
   ]
 }

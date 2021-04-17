@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/memebase/static/css/main.3de1322f.chunk.css",
-    "main.js": "/memebase/static/js/main.fd496f61.chunk.js",
-    "main.js.map": "/memebase/static/js/main.fd496f61.chunk.js.map",
+    "main.js": "/memebase/static/js/main.6a16dd3b.chunk.js",
+    "main.js.map": "/memebase/static/js/main.6a16dd3b.chunk.js.map",
     "runtime-main.js": "/memebase/static/js/runtime-main.d2e37eb1.js",
     "runtime-main.js.map": "/memebase/static/js/runtime-main.d2e37eb1.js.map",
     "static/js/2.7183d4bb.chunk.js": "/memebase/static/js/2.7183d4bb.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.d2e37eb1.js",
     "static/js/2.7183d4bb.chunk.js",
     "static/css/main.3de1322f.chunk.css",
-    "static/js/main.fd496f61.chunk.js"
+    "static/js/main.6a16dd3b.chunk.js"
   ]
 }

@@ -1,7 +1,7 @@
 import React from "react";
 import { Card } from "./components/Card";
 
-import logo from "./images/harambe.jpg";
+import logo from "./images/harambe2.jpg";
 
 function App() {
   return (
